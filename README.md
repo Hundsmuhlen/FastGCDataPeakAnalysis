@@ -47,3 +47,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 If you have any questions or encounter any issues, please open an issue in this repository.
+
+## Author
+
+Jan Effenberger 2023
