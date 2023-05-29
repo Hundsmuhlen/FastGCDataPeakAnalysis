@@ -1,4 +1,4 @@
-# Data Processing for FastGC Analysis
+# Data Processing for Fast-GC PTR-ToF-MS Analysis
 
 This repository contains scripts to process GC-MS data for yeast fermentation studies. The analysis involves extraction of specific peaks from the spectral data for compounds of interest.
 
